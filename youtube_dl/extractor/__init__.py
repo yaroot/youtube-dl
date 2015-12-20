@@ -861,6 +861,7 @@ from .zingmp3 import (
     ZingMp3SongIE,
     ZingMp3AlbumIE,
 )
+from .parleys import ParleysIE
 
 _ALL_CLASSES = [
     klass
